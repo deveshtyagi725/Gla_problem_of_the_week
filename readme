@@ -1,0 +1,80 @@
+# 🚀 GLA University – Problem of the Week (July 2025)
+
+Welcome to my submission for the **GLA Problem of the Week Challenge**. This repository showcases three handpicked problems designed to strengthen core Data Structures and Algorithms (DSA) skills. Each problem is solved using **Java**, with focus on clarity, optimization, and best practices.
+
+---
+
+## 🧠 Overview
+
+- 👨‍💻 Language Used: Java  
+- 📚 Topics Covered: Binary Search, Hashing, Prefix Sum, Dynamic Programming  
+- ⏳ Difficulty Level: Medium  
+- 📁 Total Problems: 3  
+
+---
+
+## 📌 Problems Included
+
+### 🔻 1. Find Minimum in Rotated Sorted Array
+
+**🔍 Description:**  
+You're given a sorted array that has been rotated at an unknown pivot. The task is to find the minimum element in this rotated array.
+
+**📖 Concepts Used:**  
+- Binary Search  
+- Array Traversal  
+- Pivot Detection  
+
+**📊 Difficulty:** Medium  
+**🧩 Category:** Searching & Sorting
+
+---
+
+### ➕ 2. Subarray Sum Equals K
+
+**🔍 Description:**  
+Given an integer array and a number `k`, the task is to find the **total number of continuous subarrays** whose sum equals `k`.
+
+**📖 Concepts Used:**  
+- Prefix Sum  
+- HashMap for optimized lookup  
+- Sliding Window logic (conceptually)
+
+**📊 Difficulty:** Medium  
+**🧩 Category:** Array & Hashing
+
+---
+
+### 🏠 3. Ruby's Second House
+
+**🔍 Description:**  
+Ruby wants to rob houses along a street but can’t rob two adjacent ones. The goal is to calculate the maximum amount she can rob without setting off alarms.
+
+**📖 Concepts Used:**  
+- Dynamic Programming  
+- Decision Making (Rob or Skip)  
+- Space Optimization (optional)
+
+**📊 Difficulty:** Medium  
+**🧩 Category:** DP Variant (House Robber)
+
+---
+
+## 🛠️ Technologies & Tools
+
+- 💻 Java Programming Language  
+- 🧪 VS Code / IntelliJ IDEA  
+- 📈 Data Structures: Arrays, HashMap  
+- 🔁 Algorithms: Binary Search, Prefix Sum, Dynamic Programming  
+
+---
+
+## 📁 Project Structure
+
+```bash
+GLA_Problem_Of_The_Week/
+│
+├── 🔻 FindMinimumInRotatedArray.java
+├── ➕ SubarraySumEqualsK.java
+├── 🏠 RubysSecondHouse.java
+└── README.md
